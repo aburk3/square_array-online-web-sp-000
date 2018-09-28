@@ -3,5 +3,4 @@ def square_array(array)
   array.each |number|
     squared << number * number
     return squared
-  end
 end
